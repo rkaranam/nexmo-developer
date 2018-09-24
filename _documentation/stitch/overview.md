@@ -4,6 +4,8 @@ title: Overview
 
 # Nexmo Stitch Overview [Developer Preview]
 
+Documentation for the product formerly known as Stitch will go here.
+
 Nexmo Stitch is a conversation-centric product consisting of iOS, Android, and JavaScript SDKs and an API. 
 
 Stitch enables communications across multiple channels including:
