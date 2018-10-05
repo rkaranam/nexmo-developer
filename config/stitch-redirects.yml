@@ -38,3 +38,12 @@
 "/sdk/stitch/ios": "/sdk/stitch/ios/"
 "/stitch/in-app-voice/ncco-guide": "/stitch/in-app-voice/guides/ncco-guide"
 "/stitch/in-app-voice/inbound-pstn": "/stitch/in-app-voice/guides/inbound-pstn"
+
+# New redirects
+"/comms-sdks": "/comms-sdks/overview"
+"/comms-sdks/sdk-documentation/android": "/sdk/stitch/android/"
+"/comms-sdks/sdk-documentation/ios": "/sdk/stitch/ios/"
+"/comms-sdks/sdk-documentation/javascript": "/sdk/stitch/javascript/"
+
+"/conversation": "/conversation/overview"
+"/conversation/concepts": "/conversation/concepts/conversations"

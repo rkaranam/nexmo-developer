@@ -43,8 +43,9 @@ navigation_overrides:
     label: 'Beta'
   redact:
     label: 'Developer Preview'
-  stitch:
+  conversation:
     label: 'Developer Preview'
+  comms-sdks:
     sdk-documentation:
       link: false
       prevent_navigation_item_class: true

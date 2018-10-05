@@ -8,7 +8,8 @@ en:
     sip: SIP
     account: Account
     number-insight: Number Insight
-    stitch: Stitch
+    conversation: Conversation
+    comms-sdks: Comms SDKs
     in-app-messaging: In-App Messaging
     in-app-voice: In-App Voice
     in-app-video: In-App Video

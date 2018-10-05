@@ -22,6 +22,9 @@ class Tutorial
     return 'SMS' if product == 'messaging/sms'
     return 'Voice' if product == 'voice/voice-api'
     return 'Number Insight' if product == 'number-insight'
+    return 'Comms SDK - In-app Messaging' if product == 'comms-sdks/in-app-messaging'
+    return 'Comms SDK - In-app Voice' if product == 'comms-sdks/in-app-voice'
+    return 'Comms SDK - In-app Video' if product == 'comms-sdks/in-app-video'
     product.camelcase
   end
 

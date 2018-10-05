@@ -2,11 +2,9 @@
 title: Overview
 ---
 
-# Nexmo Stitch Overview [Developer Preview]
+# Nexmo Comms SDKs Overview
 
-Documentation for the product formerly known as Stitch will go here.
-
-Nexmo Stitch is a conversation-centric product consisting of iOS, Android, and JavaScript SDKs and an API. 
+Nexmo Comms SDKs is a conversation-centric product consisting of SDKs for iOS, Android, and JavaScript and a [REST API](/api/conversation).
 
 Stitch enables communications across multiple channels including:
 
@@ -16,9 +14,31 @@ Stitch enables communications across multiple channels including:
 * PSTN to in-app voice
 * In-app video
 
-Enable chat or voice on your mobile or web application with our SDKs so that your users can seamlessly communicate no matter which device they are on.
+Enable chat or voice in your mobile or web application with our SDKs so that your users can seamlessly communicate no matter which device they are on.
 
-## In-App Messaging
+## Contents
+
+* [Developer Preview](#developer-preview)
+* [Supported features](#supported-features)
+* [Getting started](#getting-started)
+* [Concepts](#concepts)
+* [SDK Documentation](#sdk-documentation)
+* [References](#references)
+
+## Developer Preview
+
+This API is currently in Developer Preview.
+
+Nexmo always welcomes your feedback. Your suggestions help us improve the product. If you do need help, please email [support@nexmo.com](mailto:support@nexmo.com) and include Conversation API in the subject line. Please note that during the Developer Preview period support times are limited to Monday to Friday.
+
+If you want communicate with Nexmo during the developer preview you can:
+
+* Join the [Nexmo community slack](https://developer.nexmo.com/community/slack/) and check out the [#comms-sdks](https://nexmo-community.slack.com/messages/C9H152ATW) channel.
+* Email [ea-support@nexmo.com](mailto:ea-support@nexmo.com) directly.
+
+## Supported features
+
+### In-App Messaging
 
 Build a feature rich chat experience that includes typing indicators and sent, delivered and read receipts.
 
@@ -28,7 +48,9 @@ Some features include:
 * Push Notifications – Keep users aware of important alerts by sending notifications to their device.
 * Text and Image Support – Users can quickly send and receive texts and images from your application.
 
-## In-App Voice
+[Overview](/comms-sdks/in-app-messaging/overview)
+
+### In-App Voice
 
 Nexmo In-App Voice uses WebRTC and includes all the essentials you need to build a feature rich voice experience.
 
@@ -38,7 +60,9 @@ Some features include:
 * Notifications  – Users can be notified when they receive a call or when participants are muted.
 * Group Calls – Configure call settings so users can start a group call by adding participants in real time.
 
-## In-App Video
+[Overview](/comms-sdks/in-app-voice/overview)
+
+### In-App Video
 
 Nexmo In-App Video uses WebRTC and includes all the essentials you need to build a feature rich video experience.
 
@@ -49,24 +73,17 @@ Some features include:
 * Group Calls – Configure conversations so users can start a group video call by adding participants in real time.
 * Screen Sharing – Allow users to share their screens.
 
-## Participating in the Developer Preview
+[Overview](/comms-sdks/in-app-video/overview)
 
-This Developer Preview will focus on the In-App Messaging and Voice capabilities. During this program there will be frequent releases with new features and bug fixes based on your feedback. During the Developer Preview it is possible that there shall be breaking changes to the SDK and API but these will be explicitly communicated beforehand.
+## Concepts
 
-If you want communicate with Nexmo during the developer preview you can:
+You can read more about Stitch key concepts in the following topics:
 
-* Join the [Nexmo community slack](https://developer.nexmo.com/community/slack/) and check out the [#stitch](https://nexmo-community.slack.com/messages/C9H152ATW) channel.
-* Email [ea-support@nexmo.com](mailto:ea-support@nexmo.com) directly.
+```concept_list
+product: conversation
+```
 
-## Next Steps
-
-Read more about:
-
-* [In-App Messaging](/stitch/in-app-messaging/overview)
-* [In-App Voice](/stitch/in-app-voice/overview)
-* [In-App Video](/stitch/in-app-video/overview)
-
-## SDK Documentation
+## SDK Documentation  
 
 <div class="row">
   <div class="columns small-12 medium-4">
@@ -88,6 +105,6 @@ Read more about:
 
 ## References
 
-* [API Reference](/api/stitch)
+* [API Reference](/api/conversation)
 * [Nexmo CLI](https://github.com/nexmo/nexmo-cli/tree/beta)
 * [Node.JS and Angular Demo](https://github.com/Nexmo/stitch-demo) with an [Android](https://github.com/Nexmo/stitch-demo-android) client demo

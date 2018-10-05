@@ -17,7 +17,8 @@ class DocumentationConstraint
       'number-insight',
       'account',
       'concepts',
-      'stitch',
+      'conversation',
+      'comms-sdks',
       'messages-and-workflows-apis',
     ]
   end
@@ -39,8 +40,10 @@ class DocumentationConstraint
       'number-insight',
       'account',
       'concepts',
-      'stitch/in-app-voice',
-      'stitch/in-app-messaging',
+      'comms-sdks/in-app-voice',
+      'comms-sdks/in-app-video',
+      'comms-sdks/in-app-messaging',
+      'conversation',      
       'messages-and-workflows-apis/messages',
       'messages-and-workflows-apis/workflows',
     ]
