@@ -46,7 +46,7 @@ class DocumentationConstraint
       'comms-sdks/in-app-voice',
       'comms-sdks/in-app-video',
       'comms-sdks/in-app-messaging',
-      'conversation',      
+      'conversation',
       'messages-and-workflows-apis/messages',
       'messages-and-workflows-apis/workflows',
     ]
