@@ -22,7 +22,8 @@ class DocumentationConstraint
       'concepts',
       'conversation',
       'comms-sdks',
-      'messages-and-workflows-apis',
+      'messages',
+      'dispatch',
     ]
   end
 
@@ -47,8 +48,8 @@ class DocumentationConstraint
       'comms-sdks/in-app-video',
       'comms-sdks/in-app-messaging',
       'conversation',
-      'messages-and-workflows-apis/messages',
-      'messages-and-workflows-apis/workflows',
+      'messages',
+      'dispatch',
     ]
   end
 

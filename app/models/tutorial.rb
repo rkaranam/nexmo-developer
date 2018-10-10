@@ -26,8 +26,8 @@ class Tutorial
     return 'Comms SDK - In-app Messaging' if product == 'comms-sdks/in-app-messaging'
     return 'Comms SDK - In-app Voice' if product == 'comms-sdks/in-app-voice'
     return 'Comms SDK - In-app Video' if product == 'comms-sdks/in-app-video'
-    return 'Messages' if product == 'messages-and-workflows-apis/messages'
-    return 'Workflows' if product == 'messages-and-workflows-apis/workflows'
+    return 'Messages' if product == 'messages'
+    return 'Dispatch' if product == 'dispatch'
     product.camelcase
   end
 
