@@ -28,5 +28,13 @@ module BuildingBlockRenderer
 
       HEREDOC
     end
+
+    def self.create_verbiage(filename)
+      "<p>Create a class named <code>#{filename.gsub('.java', '')}</code> and add the following code to the <code>main</code> method:</p>"
+    end
+
+    def self.add_verbiage(filename)
+      "<p>Add the following to the <code>main</code> method of the <code>#{filename.gsub('.java', '')}</code> class:</p>"
+    end
   end
 end

@@ -12,5 +12,13 @@ module BuildingBlockRenderer
 
       HEREDOC
     end
+
+    def self.create_verbiage(filename)
+      "<p>Create a file named <code>#{filename}</code> and add the following code:</p>"
+    end
+
+    def self.add_verbiage(filename)
+      "<p>Add the following to <code>#{filename}</code>:</p>"
+    end
   end
 end
