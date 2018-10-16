@@ -1,6 +1,6 @@
 ---
 title: Application
-description: Application
+description: An Nexmo Application provides a container for Users and Conversations.
 ---
 
 # Application

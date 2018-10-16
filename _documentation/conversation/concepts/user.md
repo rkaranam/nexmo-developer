@@ -1,6 +1,6 @@
 ---
 title: User
-description: User.
+description: A User represents an entity such as a person that wishes to communicate.
 ---
 
 # User

@@ -1,6 +1,6 @@
 ---
 title: Member
-description: Introduction to the concept of a Member.
+description: A Member is created when a User joins a Conversation.
 ---
 
 # Member

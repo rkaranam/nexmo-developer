@@ -1,6 +1,6 @@
 ---
 title: Call
-description: Call
+description: A Call connects two Users in a Conversation.
 ---
 
 # Call

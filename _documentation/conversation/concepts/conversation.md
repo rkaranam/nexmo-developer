@@ -1,6 +1,6 @@
 ---
 title: Conversation
-description: Conversation
+description: A Conversation connects Users and allows them to communicate.
 ---
 
 # Conversation

@@ -1,9 +1,9 @@
 ---
-title: Events
-description: Introduction to the concept of Events.
+title: Event
+description: Conversations are event-driven. Events are generated whern ley activities occur.
 ---
 
-# Events
+# Event
 
 Conversations are event driven. When key activities occur an event is
 generated, which can be handled by the application. For example when

@@ -1,6 +1,6 @@
 ---
 title: Leg
-description: Leg
+description: A Leg connects a User with a Conversation.
 ---
 
 # Leg
