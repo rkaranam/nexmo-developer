@@ -4,7 +4,7 @@ title: Overview
 
 # Conversation API
 
-Conversation API intro.
+The Conversation API allows you to create various objects such as Users, Members, Conversations used in text, voice and video communication between two endpoints.
 
 ## Contents
 

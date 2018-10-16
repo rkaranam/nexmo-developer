@@ -1,12 +1,12 @@
 ---
 title: Audio
-description: Introduction to Audio conversations in Stitch.
+description: Introduction to Audio conversations.
 navigation_weight: 5
 ---
 
 # Audio
 
-Audio communication in Stitch can take place via three main methods:
+Audio communication can take place via three main methods:
 
 1. App to app over IP
 2. Phone to App

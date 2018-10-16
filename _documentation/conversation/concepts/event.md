@@ -1,12 +1,11 @@
 ---
 title: Events
-description: Introduction to the concept of Events in Stitch.
-navigation_weight: 7
+description: Introduction to the concept of Events.
 ---
 
 # Events
 
-Stitch is event driven. When key activities occur an event is
+Conversations are event driven. When key activities occur an event is
 generated, which can be handled by the application. For example when
 a User joins a Conversation a `member:joined` event is fired. Other
 events include `member:left`, and `member:invited`.
