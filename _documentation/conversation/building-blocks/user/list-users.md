@@ -1,8 +1,8 @@
 ---
-title: List all Users
+title: List Users
 ---
 
-## List all Users
+# List Users
 
 A REST API call is available that will list all Users. As the JWT used to authenticate this REST API call is tied to a specific Nexmo application, all Users associated with that application will be returned:
 

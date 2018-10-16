@@ -46,4 +46,5 @@
 "/comms-sdks/sdk-documentation/javascript": "/sdk/stitch/javascript/"
 
 "/conversation": "/conversation/overview"
-"/conversation/concepts": "/conversation/concepts/conversations"
+"/conversation/concepts": "/conversation/concepts/conversation"
+"/conversation/api-reference": "/api/conversation"

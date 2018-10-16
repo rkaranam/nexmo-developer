@@ -9,6 +9,10 @@ en:
     account: Account
     number-insight: Number Insight
     conversation: Conversation
+    user: User
+    member: Member
+    event: Event
+    leg: Leg
     comms-sdks: Comms SDKs
     in-app-messaging: In-App Messaging
     in-app-voice: In-App Voice

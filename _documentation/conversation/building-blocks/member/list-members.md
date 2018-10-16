@@ -1,9 +1,9 @@
 ---
-title: List Conversation Members
-description: List Conversation Members.
+title: List Members in a Conversation
+description: List Members in a Conversation
 ---
 
-# List Members of a Conversation
+# List Members in a Conversation
 
 You can list the Members of a Conversation with the command:
 
