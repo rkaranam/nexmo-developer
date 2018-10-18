@@ -4,14 +4,23 @@ title: Create a User
 
 # Create a User
 
-You can create a User on the command line with:
+In this building block you will see how to create a Conversation.
 
-``` shell
-$ nexmo user:create name="jamie"
+## Example
+
+Ensure the following variables are set to your required values using any convenient method:
+
+Key | Description
+-- | --
+`NAME` | The unique name of the User.
+`DISPLAY_NAME` | The display name of the User.
+
+```building_blocks
+source: '_examples/conversation/user/create-user'
+application:
+  name: 'Create User'
 ```
 
-This will return a unique User ID:
+## Try it out
 
-```
-USR-cf0e4ff6-fd86-4d4a-9a90-282a59593480
-```
+When you run the code you will create a new User.

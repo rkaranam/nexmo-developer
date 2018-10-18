@@ -4,10 +4,22 @@ title: List Conversations
 
 # List Conversations
 
-You can use the REST API to get a list of Conversations:
+In this building block you will see how to list all Conversations.
 
-``` shell
-$ curl "https://api.nexmo.com/beta/conversations" \
-     -H 'Authorization: Bearer eyJ0eXAiOiJKV1Q....VpwfOz2KGyJ14oL6gqCPfX24Mg' \
-     -H 'Content-Type: application/json'
+## Example
+
+Ensure the following variables are set to your required values using any convenient method:
+
+Key | Description
+-- | --
+None | None
+
+```building_blocks
+source: '_examples/conversation/conversation/list-conversations'
+application:
+  name: 'List Conversations'
 ```
+
+## Try it out
+
+When you run the code you will retrieve a list of all Conversations.

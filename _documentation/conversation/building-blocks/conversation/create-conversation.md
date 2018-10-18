@@ -4,21 +4,23 @@ title: Create a Conversation
 
 # Create a Conversation
 
-Conversations can be created via the REST API, using one of the SDKs, or on the command line.
+In this building block you will see how to create a Conversation.
 
-To create a Conversation via the command line:
+## Example
 
-``` shell
-$ nexmo conversation:create display_name="Nexmo Chat"
+Ensure the following variables are set to your required values using any convenient method:
+
+Key | Description
+-- | --
+`NAME` | The unique name of the Conversation.
+`DISPLAY_NAME` | The display name of the Conversation.
+
+```building_blocks
+source: '_examples/conversation/conversation/create-conversation'
+application:
+  name: 'Create Conversation'
 ```
-
-This returns a unique ID for the Conversation:
-
-```
-CON-35663e9d-687f-4e5c-bd37-91837294bd76
-```
-
 
 ## Try it out
 
-...
+When you run the code you will create a new Conversation.
