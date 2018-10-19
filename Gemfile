@@ -140,6 +140,9 @@ gem 'diffy', require: false
 # Automatic Ruby code style checking tool. Aims to enforce the community-driven Ruby Style Guide.
 gem 'rubocop'
 
+# Volta needs a CSS autoprefixer
+gem 'autoprefixer-rails'
+
 group :development, :test do
   gem 'awesome_print'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -167,3 +170,7 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
+
+# The following are dependencies of dependencies, but we require them here to
+# force minimum versions due to security issues
+gem 'ffi', '>= 1.9.24'
