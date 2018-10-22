@@ -75,7 +75,7 @@ $ ./ngrok http 5000
 
 This creates public URLs (HTTP and HTTPS) for any web site that is running on port 5000 on your local machine.
 
-Use the `ngrok` web interface at `http://localhost:4040` and make a note of the URLs that `ngrok` provides: you need them to complete this tutorial.
+Use the `ngrok` web interface at <http://localhost:4040> and make a note of the URLs that `ngrok` provides: you need them to complete this tutorial.
 
 ## Create the basic application
 
