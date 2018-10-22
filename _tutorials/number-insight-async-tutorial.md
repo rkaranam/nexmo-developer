@@ -252,16 +252,3 @@ The following resources will help you use Number Insight in your applications:
 * [Number Insight Advanced Async API reference](/api/number-insight#getNumberInsightAsync)
 * [Connect your local development server to the Nexmo API using an ngrok tunnel](https://www.nexmo.com/blog/2017/07/04/local-development-nexmo-ngrok-tunnel-dr/)
 * [More tutorials](/number-insight/tutorials)
-
-
-
-
-
-
-
-
-
-
-
-
-
