@@ -17,7 +17,7 @@ Key | Description
 ```building_blocks
 source: '_examples/conversation/user/list-user-conversations'
 application:
-  name: 'List a User's Conversations'
+  name: "List a User's Conversations"
 ```
 
 ## Try it out
